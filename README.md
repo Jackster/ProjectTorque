@@ -13,3 +13,5 @@ Translation to English Simplified (US) will be required.
 
 There are currently requests for German, Hungarian, Spanish, French, Russian, Chinese, Taiwanese 
 
+Original English file naming convention, crcen.dlg
+Example for new files for English Simplified should be crcus.dlg and Russian should be crcru.dlg
